@@ -4,7 +4,7 @@
 /// This is the heart of the gamemode. It's responsible
 /// for creating the player and stuff.
 /// </summary>
-[ClassLibrary( "dm98", Title = "DM98" )]
+[ClassLibrary( "testgamemode", Title = "Gigachad's Box" )]
 partial class DeathmatchGame : Game
 {
 	public DeathmatchGame()
