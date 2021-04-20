@@ -9,6 +9,7 @@ partial class DeathmatchGame : Game
 {
 	public DeathmatchGame()
 	{
+		Log.Info("__________________________Test log");
 		//
 		// Create the HUD entity. This is always broadcast to all clients
 		// and will create the UI panels clientside. It's accessible 
