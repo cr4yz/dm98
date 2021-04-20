@@ -1,5 +1,5 @@
 {
-		"name": "Deathmatch 98",
+		"name": "Gigachad's Box",
 		"version": "1.0",
 		"sharedassets": "*.*",
 
@@ -16,9 +16,9 @@
 		"gamemodes":
 		[
 				{
-						"name": "dm98",
-						"title": "Deathmatch 98",
-						"description": "Hurt other players more than they hurt you"
+						"name": "gigachad",
+						"title": "Gigachad's Box",
+						"description": "A place where absolute chads go to develop shit.  Are you worthy?"
 				}
 		]
 }
