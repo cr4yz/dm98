@@ -16,7 +16,7 @@
 		"gamemodes":
 		[
 				{
-						"name": "gigachad",
+						"name": "testgamemode",
 						"title": "Gigachad's Box",
 						"description": "A place where absolute chads go to develop shit.  Are you worthy?"
 				}
